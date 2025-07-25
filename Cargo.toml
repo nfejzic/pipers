@@ -1,5 +1,5 @@
 [package]
-name = "pipers"
+name = "tuba"
 version = "0.1.0"
 edition = "2024"
 authors = ["Nadir Fejzic <nadir@notfloor.com>"]
